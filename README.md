@@ -11,7 +11,7 @@ This project demonstrates a real-world AWS architecture combining Network Load B
 
 ## 🏗️ Architecture
 
-![Architecture Diagram](architecture-diagram.png)
+![Architecture Diagram](Architecture.png)
 
 ### Flow:
 Client → NLB → ALB → Target Groups → EC2 Instances
@@ -72,10 +72,10 @@ Client → NLB → ALB → Target Groups → EC2 Instances
 ## 📸 Screenshots
 
 ### ALB
-![ALB](screenshots/alb.png)
+![ALB](ALB.png)
 
 ### NLB
-![NLB](screenshots/nlb.png)
+![NLB](NLB.png)
 
 ---
 
