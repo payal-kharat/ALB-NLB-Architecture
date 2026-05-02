@@ -25,7 +25,7 @@ Client → NLB → ALB → Target Groups → EC2 Instances
 - Network Load Balancer (NLB)
 - Target Groups
 - Auto Scaling (optional)
-- VPC
+
 
 ---
 
@@ -97,4 +97,4 @@ Client → NLB → ALB → Target Groups → EC2 Instances
 ---
 
 ## 👨‍💻 Author
-Your Name
+Payal Kharat
